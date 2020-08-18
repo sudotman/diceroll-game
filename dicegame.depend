@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1535181603 source:c:\users\xxxtentacion\downloads\codes\dicegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
+1535199276 source:d:\downloads\codes\dicegame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
