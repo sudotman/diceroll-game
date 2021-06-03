@@ -19,7 +19,7 @@ int main()
     int sumOld;
     int sumNew;
 
-    printf("Welcome to the Dice game! You can play this upto 4 times. \n \n");
+    printf("Welcome to my dice game! You can play this upto 4 times. \n \n");
     for (loop=1;loop<=4;loop++)
     {
 
@@ -33,7 +33,7 @@ int main()
     }
     else
     {
-        printf("\nYou suck at following instructions \n");
+        printf("\nFollow the instructions :o \n");
         break;
     }
 
@@ -47,7 +47,7 @@ int main()
     }
     else
     {
-        printf("You suck at following instructions \n");
+        printf("Follow the instructions :o \n");
         break;
     }
 
@@ -61,7 +61,7 @@ int main()
     }
     else
     {
-        printf("You suck at following instructions \n");
+        printf("Follow the instructions :o \n");
         break;
     }
 
@@ -84,7 +84,7 @@ int main()
     }
     else
     {
-        printf("You suck at following instructions \n \n");
+        printf("Follow the instructions :o \n \n");
         break;
     }
 
@@ -98,7 +98,7 @@ int main()
     }
     else
     {
-        printf("You suck at following instructions \n");
+        printf("Follow the instructions :o \n");
         break;
     }
 
@@ -112,7 +112,7 @@ int main()
     }
     else
     {
-        printf("You suck at following instructions \n");
+        printf("Follow the instructions :o \n");
         break;
     }
 
