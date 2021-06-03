@@ -141,7 +141,7 @@ int main()
         }
         if(sumNew<sumOld)
         {
-            printf("youre dead wrong lmao \n");
+            printf("youre dead wrong \n");
         }
         if(sumNew==sumOld)
         {
