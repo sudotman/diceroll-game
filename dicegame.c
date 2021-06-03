@@ -127,7 +127,7 @@ int main()
         }
         if(sumNew>sumOld)
         {
-            printf("youre dead wrong lmao \n");
+            printf("youre dead wrong \n");
         }
         if(sumNew==sumOld)
         {
@@ -155,7 +155,7 @@ int main()
         }
         if(sumNew<sumOld)
         {
-            printf("youre dead wrong lmao \n");
+            printf("youre dead wrong \n");
         }
         if(sumNew>sumOld)
         {
@@ -163,7 +163,7 @@ int main()
         }
         break;
 
-        default : printf("type correctly my nigga \n");
+        default : printf("type correctly pls \n");
     }
 
 
